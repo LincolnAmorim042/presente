@@ -28,10 +28,6 @@ SPECIAL_DAYS = {
     "01-27": {
         "extra_message": "Quero ver muitos mais dos seus anos ❤️",
         "confetti": True
-    },
-    "01-08": {
-        "extra_message": "teste ❤️",
-        "confetti": True
     }
 }
 
