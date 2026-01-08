@@ -1,0 +1,6 @@
+[
+  { "type": "image", "src": "/static/img/sample1.jpg", "alt": "Post 1" },
+  { "type": "image", "src": "/static/img/sample2.jpg", "alt": "Post 2" },
+  { "type": "image", "src": "/static/img/sample3.jpg", "alt": "Post 3" },
+  { "type": "video", "src": "/static/video/project1.mp4", "poster": "/static/img/sample1.jpg" }
+]
